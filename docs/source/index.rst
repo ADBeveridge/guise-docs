@@ -3,12 +3,12 @@ Guise Documentation
 
 Compare faces across images
 
-Contents
+Contentsd
 --------
 
 .. toctree::
-
    :maxdepth: 1
    :caption: Contents:
+   
    starting
    api
