@@ -4,4 +4,6 @@ API
 .. autosummary::
    :toctree: generated
 
-   lumache
+   .. option:: -i <regex>, --ignore <regex>
+
+      Ignore pages that match a specific pattern.
