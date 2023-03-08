@@ -1,9 +1,5 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   .. option:: -i <regex>, --ignore <regex>
-
-      Ignore pages that match a specific pattern.
+.. option:: -i <regex>, --ignore <regex>
+   Ignore pages that match a specific pattern.
